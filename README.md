@@ -1,7 +1,8 @@
 ## Bem vindo!, Esse é meu github, estou feliz em ter você por aqui, meu nome é Otávio Augusto.  
 ## Welcome!, This is my github, I'm happy to have you here, my name is Otávio Augusto.
 
-Queridos programadores, design e etc.
+ 
+🐱‍👤 Queridos programadores, design e etc.
 Estou aqui nesta comunidade maravilhosa para dar minhas contribuições com meus projetos, espero que gostem. 
   
  hello dear programmers, design and etc. I'm here in this wonderful community to give my contributions with my projects, I hope you like it.
