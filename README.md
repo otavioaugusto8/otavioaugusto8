@@ -1,8 +1,10 @@
-## Bem vindo!, Esse é meu github, estou feliz em ter você por aqui, meu nome é Otávio Augusto.
+## Bem vindo!, Esse é meu github, estou feliz em ter você por aqui, meu nome é Otávio Augusto.  
+## Welcome!, This is my github, I'm happy to have you here, my name is Otávio Augusto.
 
 
-- 🌱 Estudando Javascript, TypeScript e React
-- 📫 Contate-me no email: amarantesotavio@gmail.com
+
+- 🌱 Estudando Javascript, TypeScript e React / Studying Javascript, TypeScript and React
+- 📫 Contate-me no email: amarantesotavio@gmail.com / Contact me by email: amarantesotavio@gmail.com
 - 😄 Pronouns: ele/dele
  
 ## 
