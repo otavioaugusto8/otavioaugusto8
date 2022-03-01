@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Otávio Augusto
 
 
-- 🌱 Estudando Javascript, Typescript e React
+- 🌱 Estudando Javascript, TypeScript e React
 - 📫 Contate-me no email: amarantesotavio@gmail.com
 - 😄 Pronouns: ele/dele
  
