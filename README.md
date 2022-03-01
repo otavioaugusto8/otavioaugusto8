@@ -5,15 +5,16 @@
 - 📫 Contate-me no email: amarantesotavio@gmail.com
 - 😄 Pronouns: ele/dele
  
-  
- <div align="left">
+## 
+
+ <div align="center">
   <a href="https://github.com/otavioaugusto8">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=otavioaugusto8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaugusto8&layout=compact&langs_count=7&theme=tokyonight"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=otavioaugusto8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaugusto8&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div><br> 
   
 
 
-  <div style="display: inline_block">
+  <div align="center">
   <img align="center" alt="Otavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Otavio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Otavio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
