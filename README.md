@@ -38,7 +38,7 @@ Estou aqui nesta comunidade maravilhosa para dar minhas contribuições com meus
  <div style="display: inline_block"><br> 
   <a href = "mailto:amarantesotavio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augustootavio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="http://https://arquibancadastoresports.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>  
+<a href="www.arquibancadastoresports.com" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>  
     
 
  
